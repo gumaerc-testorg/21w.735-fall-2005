@@ -2,8 +2,13 @@
 content_type: resource
 description: This resource is a example of student work which provides information
   on bringing armageddon.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/21w-735-writing-and-reading-the-essay-fall-2005/a7ecacdbae8819bdfe42f3f1c2ebbb51_bring_armageddon.pdf
+file: /media/courses/21w-735-writing-and-reading-the-essay-fall-2005/a7ecacdbae8819bdfe42f3f1c2ebbb51_bring_armageddon.pdf
 file_type: application/pdf
+learning_resource_types:
+- Assignments
+ocw_type: OCWFile
+parent_title: Assignments
+parent_type: CourseSection
 resourcetype: Document
 title: bring_armageddon.pdf
 uid: a7ecacdb-ae88-19bd-fe42-f3f1c2ebbb51
