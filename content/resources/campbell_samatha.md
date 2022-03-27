@@ -6,10 +6,10 @@ file: /media/courses/21w-735-writing-and-reading-the-essay-fall-2005/f27b208e06f
 file_type: application/pdf
 learning_resource_types:
 - Assignments
-ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
 resourcetype: Document
 title: campbell_samatha.pdf
+type: OCWFile
 uid: f27b208e-06fb-9aac-e926-ad0f4091672f
 ---

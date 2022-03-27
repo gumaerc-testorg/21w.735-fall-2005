@@ -5,10 +5,10 @@ file: /media/courses/21w-735-writing-and-reading-the-essay-fall-2005/fb60701d1d3
 file_type: application/pdf
 learning_resource_types:
 - Assignments
-ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
 resourcetype: Document
 title: oral_pres_gdlns.pdf
+type: OCWFile
 uid: fb60701d-1d35-d3f4-706a-512138d9528a
 ---

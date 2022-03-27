@@ -6,10 +6,10 @@ file: /media/courses/21w-735-writing-and-reading-the-essay-fall-2005/cfd1141a532
 file_type: application/pdf
 learning_resource_types:
 - Assignments
-ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
 resourcetype: Document
 title: essay4_mur_marr.pdf
+type: OCWFile
 uid: cfd1141a-532f-dbf9-ea3d-dabcad2f7e54
 ---

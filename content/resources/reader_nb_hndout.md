@@ -5,10 +5,10 @@ file: /media/courses/21w-735-writing-and-reading-the-essay-fall-2005/deb7acd8b57
 file_type: application/pdf
 learning_resource_types:
 - Assignments
-ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
 resourcetype: Document
 title: reader_nb_hndout.pdf
+type: OCWFile
 uid: deb7acd8-b57b-3bdc-57b0-1d4ef3c659b1
 ---

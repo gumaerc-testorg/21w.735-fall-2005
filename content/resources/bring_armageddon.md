@@ -6,10 +6,10 @@ file: /media/courses/21w-735-writing-and-reading-the-essay-fall-2005/a7ecacdbae8
 file_type: application/pdf
 learning_resource_types:
 - Assignments
-ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
 resourcetype: Document
 title: bring_armageddon.pdf
+type: OCWFile
 uid: a7ecacdb-ae88-19bd-fe42-f3f1c2ebbb51
 ---

@@ -6,10 +6,10 @@ file: /media/courses/21w-735-writing-and-reading-the-essay-fall-2005/da6be8f4a5c
 file_type: application/pdf
 learning_resource_types:
 - Assignments
-ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
 resourcetype: Document
 title: essay3_jamie_sh.pdf
+type: OCWFile
 uid: da6be8f4-a5ce-ce4b-a1a7-8176a6008c3b
 ---
