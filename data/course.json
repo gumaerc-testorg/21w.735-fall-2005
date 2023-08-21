@@ -34,7 +34,9 @@
   },
   "course_title": "Writing and Reading the Essay",
   "course_description": "This is a course focused on the literary genre of the essay, that wide-ranging, elastic, and currently very popular form that attracts not only nonfiction writers but also fiction writers, poets, scientists, physicians, and others to write in the form, and readers of every stripe to read it. Some say we are living in era in which the essay is enjoying a renaissance; certainly essays, both short and long, are at present easier to get published than are short stories or novels, and essays are featured regularly and prominently in the mainstream press (both magazines and newspapers) and on the _New York Times_ bestseller books list. But the essay has a history, too, a long one, which goes back at least to the sixteenth-century French writer Montaigne, generally considered the progenitor of the form. It will be our task, and I hope our pleasure, to investigate the possibilities of the essay together this semester, both by reading and by writing.\n",
-  "department_numbers": [],
+  "department_numbers": [
+    "CMS-W"
+  ],
   "extra_course_numbers": "",
   "primary_course_number": "21W.735",
   "course_image_thumbnail": {
@@ -44,6 +46,7 @@
   "learning_resource_types": [
     "Written Assignments with Examples"
   ],
-  "site_uid": "1a80a02f-34fd-411a-bac5-0e3a00d8bffd",
+  "site_uid": "ce164407-c9be-4da7-9d01-cc8e79ab38fa",
+  "short_id": "21w.735-fall-2005",
   "title": "Course Metadata"
 }
