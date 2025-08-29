@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource is a example of student work which provides information
   on turning myth into meaning along with the works cited.
-file: /courses/21w-735-writing-and-reading-the-essay-fall-2005/f27b208e06fb9aace926ad0f4091672f_campbell_samatha.pdf
+file: /ol-ocw-studio-app/courses/21w-735-writing-and-reading-the-essay-fall-2005/f27b208e06fb9aace926ad0f4091672f_campbell_samatha.pdf
 file_size: 110744
 file_type: application/pdf
 learning_resource_types:
