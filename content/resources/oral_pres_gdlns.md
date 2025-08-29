@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource is a guideline for oral presentation.
-file: /courses/21w-735-writing-and-reading-the-essay-fall-2005/fb60701d1d35d3f4706a512138d9528a_oral_pres_gdlns.pdf
+file: /ol-ocw-studio-app/courses/21w-735-writing-and-reading-the-essay-fall-2005/fb60701d1d35d3f4706a512138d9528a_oral_pres_gdlns.pdf
 file_size: 95830
 file_type: application/pdf
 learning_resource_types:
