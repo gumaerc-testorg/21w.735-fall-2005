@@ -30,9 +30,9 @@ Menard, Louis, and Robert Atwan, eds. *The Best American Essays 2004*. Boston, M
 In Depth, Discussion of Bacon, Montaigne and White Essays
 {{< tdclose >}}{{< tdopen >}}
 
-Bacon, Francis. "Of Marriage and Single Life." In *Essays, Civil and Moral. The Harvard Classics. 1909-14*. (A version of "[Of Marriage and Single Life](http://www.bartleby.com/3/1/8.html)" is available through Bartleby.com.)
+Bacon, Francis. "Of Marriage and Single Life." In *Essays, Civil and Moral. The Harvard Classics. 1909-14*. (A version of "{{% resource_link "fb37cb40-46cd-47fd-b824-e39bef72cd8d" "Of Marriage and Single Life" %}}" is available through Bartleby.com.)
 
-de Montaigne, Michel. "Of Idleness." (A version of "[Of Idleness](http://onlinebooks.library.upenn.edu/webbin/gutbook/lookup?num=3582)" is available at Project Gutenberg.)
+de Montaigne, Michel. "Of Idleness." (A version of "{{% resource_link "01fe4ee4-75da-481c-a4a3-c6b50d69d926" "Of Idleness" %}}" is available at Project Gutenberg.)
 
 White, E. B. "The Essayist and the Essay." In *Essays of E. B. White*. New York, NY: Harper Collins Publishers Inc. (now owned by Addison Wesley Longman), 1977, pp. 30-31. ISBN: 9780060145767.
 
